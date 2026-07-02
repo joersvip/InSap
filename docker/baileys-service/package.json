@@ -1,0 +1,17 @@
+{
+  "name": "baileys-whatsapp-service",
+  "version": "1.0.0",
+  "description": "WhatsApp Multi-Device Gateway microservice based on @whiskeysockets/baileys for local enterprise deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "express": "^4.19.2",
+    "qrcode": "^1.5.3",
+    "pg": "^8.11.3",
+    "axios": "^1.6.8",
+    "pino": "^8.20.0"
+  }
+}

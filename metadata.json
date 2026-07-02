@@ -1,0 +1,6 @@
+{
+  "name": "Intelligence WhatsApp Analyzer",
+  "description": "Enterprise-grade local offline WhatsApp intelligence analyzer using React, Laravel, Docker-Compose, and local AI (Ollama) with interactive visual monitoring and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
